@@ -6,7 +6,7 @@ The Nautilus system administration team required the deployment of a sample cron
 ## Implementation
 
 ### 1. Access the Application Servers
-I performed the following steps on each server sequentially: **App Server 1** (`stapp01`), **App Server 2** (`stapp02`), and **App Server 3** (`stapp03`).
+I performed the following steps on each server sequentially: **App Server 1** (`stapp01`), **App Server 2** (`stapp02`), and **App Server 3** (`stapp03`). 
 
 ```bash
 ssh tony@stapp01
