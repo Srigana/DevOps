@@ -49,3 +49,5 @@ I verified that the cron job was successfully registered in the system by listin
 
 ```bash
 sudo crontab -l
+# Check if the file was created and contains the output string
+cat /tmp/cron_text
