@@ -1,4 +1,4 @@
-# Day 13: Configuring Ansible as a Configuration Management Solution
+# Day 08: Configuring Ansible as a Configuration Management Solution
 ## Task Overview
 To streamline configuration management and automation across the Stratos Datacenter, the Nautilus DevOps team selected Ansible for its agentless architecture. The requirement was to set up the Jump Host as the Ansible controller by installing Ansible version `4.10.0` using `pip3`. The installation had to be global to ensure all system users could execute Ansible commands.
 
